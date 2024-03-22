@@ -109,7 +109,7 @@ Copy
 Preheating grill to 204°C
 Seasoning the steak with Salt and Pepper
 Cooking steak to 63°C
-Steak is ready to serve!
+Steak is ready to serve
 
 
 
