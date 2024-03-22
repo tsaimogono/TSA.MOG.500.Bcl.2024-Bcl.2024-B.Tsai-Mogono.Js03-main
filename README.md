@@ -87,6 +87,8 @@ Example #: [Insert Example Number]
 - Reflect on what you've learned from analyzing these code examples in different paradigms.
 
 Steak Cooking Functions
+
+
 This repository contains two JavaScript functions that demonstrate the imperative and declarative approaches to cooking a steak to the desired level of doneness. Both functions take the weight of the steak (in ounces) and the desired internal temperature (in Celsius) as arguments.
 cookSteakImperative(steakWeight, desiredDoneness)
 This function follows an imperative programming style, providing step-by-step instructions for cooking a steak. The process includes preheating the grill, seasoning the steak, cooking it to the desired doneness, and serving it.
